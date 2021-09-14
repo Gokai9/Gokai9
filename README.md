@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gokai9
+- 👋 Hi, I’m Tasim
 - 👀 I’m interested in learn new thing
 - 🌱 I’m currently trying to search a job
 - 💞️ I’m looking to collaborate on ...
