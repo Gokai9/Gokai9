@@ -3,7 +3,7 @@
 - 🌱 I’m currently trying to search a job
 - 📫 You can reach me from my email
 
-My skill is include:
+My skill include:
 - Api Development: Node-Express, Go-Fiber, Go-Gin
 - Programming Language: Javascript, Go, Python
 - Database: PostgresSQL, MongoDB
