@@ -4,11 +4,11 @@
 - 📫 You can reach me from my email
 
 My skill is include:
-Api Development: Node-Express, Go-Fiber, Go-Gin
-Programming Language: Javascript, Go, Python
-Database: PostgresSQL, MongoDB
-Frontend Framework: React, Vue
-Other: HTML, CSS
+- Api Development: Node-Express, Go-Fiber, Go-Gin
+- Programming Language: Javascript, Go, Python
+- Database: PostgresSQL, MongoDB
+- Frontend Framework: React, Vue
+- Other: HTML, CSS
 
 Also in the future i am looking forward to learn redis, graphql, and machine learning
 
