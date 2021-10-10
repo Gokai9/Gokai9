@@ -5,7 +5,7 @@
 
 My skill include:
 - Api Development: Node-Express, Go-Fiber, Go-Gin
-- Programming Language: Javascript, Go, Python
+- Programming Language: Javascript, Go, Python, Rust
 - Database: PostgresSQL, MongoDB
 - Frontend Framework: React, Vue
 - Other: HTML, CSS
