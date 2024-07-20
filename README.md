@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Tasim
 - 👀 I’m interested in learn new thing
-- 🌱 I’m currently trying to search a job
+- 🌱 I’m currently trying to make my own blog
 - 📫 You can reach me from my email
 
 My skill include:
 - Backend Skill: Node-Express, Go-gin, Asp.net core, Django
 - Programming Language: Javascript, Go, Python, Rust, C#
 - Database: PostgresSQL, MongoDB
-- Frontend Framework: React, Vue
+- Frontend Framework: React, Vue, Next js, Nuxt js
 - Other: HTML, CSS
 - Deep Learning skill: Pytorch, Nlp
 <!---
