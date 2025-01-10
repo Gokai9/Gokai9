@@ -4,10 +4,10 @@
 - 📫 You can reach me from my email
 
 My skill include:
-- Backend Skill: Node-Express, Go-gin, Asp.net core, Django
-- Programming Language: Javascript, Go, Python, Rust, C#
+- Backend Skill: Node-Express, Go-ginDjango
+- Programming Language: Javascript, Go, Python
 - Database: PostgresSQL, MongoDB
-- Frontend Framework: React, Vue, Next js, Nuxt js
+- Frontend Framework: React,Next js, Astro js
 - Other: HTML, CSS
 - Deep Learning skill: Pytorch, Nlp
 <!---
